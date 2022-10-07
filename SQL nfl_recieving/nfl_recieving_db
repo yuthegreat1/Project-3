@@ -1,0 +1,20 @@
+-- Table: public.nfl_receiving
+
+-- DROP TABLE IF EXISTS public.nfl_receiving;
+
+CREATE TABLE IF NOT EXISTS public.nfl_receiving
+(
+    id integer NOT NULL,
+    name character varying COLLATE pg_catalog."default" NOT NULL,
+    "position" character varying COLLATE pg_catalog."default" NOT NULL,
+    targets integer NOT NULL,
+    receptions integer NOT NULL,
+    "catch percentage" character varying COLLATE pg_catalog."default" NOT NULL,
+    yards integer NOT NULL,
+    touchdowns integer NOT NULL
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.nfl_receiving
+    OWNER to postgres;

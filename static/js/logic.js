@@ -13,6 +13,13 @@ d3.select("#submit").on("click", function(targ) {
     for (x of data) {
       let row = table.append("tr");
       row.append("td").text(x.name);
+      row.append("td").text(x.age);
+      row.append("td").text(x.team);
+      row.append("td").text(x.position);
+      row.append("td").text(x.targets);
+      row.append("td").text(x.receptions);
+      row.append("td").text(x.catchpct);
+      row.append("td").text(x.yards);
       row.append("td").text(x.touchdowns);
     }
   });

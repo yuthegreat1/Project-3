@@ -18,9 +18,10 @@ engine = create_engine("sqlite:///nfl.sqlite")
 Base = automap_base()
 # reflect the tables
 Base.prepare(engine, reflect=True)
+print(Base.classes)
 
 # Save reference to the table
-Receiving = Base.classes.receiving
+Receiving = Base.classes.receiving5
 
 #################################################
 # Flask Setup
@@ -39,6 +40,8 @@ def welcome():
         f"Available Routes:<br/>"
         f"/api/v1.0/all<br/>"
         f"/api/v1.0/searchbyname/<name><br/>"
+        f"/api/v1.0/searchbyteams/<team><br/>"
+        f"/api/v1.0/searchbyposition/<position><br/>"
     )
 
 
@@ -46,7 +49,7 @@ def welcome():
 def names():
     session = Session(engine)
     results = session.query(Receiving).all()
-    output = [{"Name": x.name, "Position": x.position, "Targets": x.targets, "Receptions": x.receptions, "Yards": x.yards, "Catch Percentage": x.catchpct,  "Touchdowns": x.touchdowns} for x in results]
+    output = [{"Name": x.name, "Position": x.position, "Targets": x.targets, "Receptions": x.receptions, "Yards": x.yards, "Catch Percentage": x.catchpct,  "Touchdowns": x.touchdowns, "Team": x.teams, "Age": x.age} for x in results]
     session.close()
     return jsonify(output)
 
@@ -56,10 +59,25 @@ def search_by_name(name):
     session = Session(engine)
     print(name)
     results = session.query(Receiving).filter(Receiving.name==name).all()
-    output = [{"Name": x.name, "Position": x.position, "Targets": x.targets, "Receptions": x.receptions, "Yards": x.yards, "Catch Percentage": x.catchpct,  "Touchdowns": x.touchdowns} for x in results]
+    output = [{"Name": x.name, "Position": x.position, "Targets": x.targets, "Receptions": x.receptions, "Yards": x.yards, "Catch Percentage": x.catchpct,  "Touchdowns": x.touchdowns, "Team": x.teams, "Age": x.age} for x in results]
     session.close()
     return jsonify(output)
 
+@app.route("/api/v1.0/searchbyteams/<team>")
+def search_by_team(team):
+    session = Session(engine)
+    results = session.query(Receiving).filter(Receiving.teams==team).all()
+    output = [{"Name": x.name, "Position": x.position, "Targets": x.targets, "Receptions": x.receptions, "Yards": x.yards, "Catch Percentage": x.catchpct,  "Touchdowns": x.touchdowns, "Team": x.teams, "Age": x.age} for x in results]
+    session.close()
+    return jsonify(output)
+
+@app.route("/api/v1.0/searchbyposition/<position>")
+def search_by_position(position):
+    session = Session(engine)
+    results = session.query(Receiving).filter(Receiving.position==position).all()
+    output = [{"Name": x.name, "Position": x.position, "Targets": x.targets, "Receptions": x.receptions, "Yards": x.yards, "Catch Percentage": x.catchpct,  "Touchdowns": x.touchdowns, "Team": x.teams, "Age": x.age} for x in results]
+    session.close()
+    return jsonify(output)    
 
 if __name__ == '__main__':
     app.run(debug=True)

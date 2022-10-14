@@ -73,6 +73,7 @@ def search_by_team(team):
 
 @app.route("/api/v1.0/searchbyposition/<position>")
 def search_by_position(position):
+    position = position.upper()
     session = Session(engine)
     results = session.query(Receiving).filter(Receiving.position==position).all()
     output = [{"Name": x.name, "Position": x.position, "Targets": x.targets, "Receptions": x.receptions, "Yards": x.yards, "Catch Percentage": x.catchpct,  "Touchdowns": x.touchdowns, "Team": x.teams, "Age": x.age} for x in results]

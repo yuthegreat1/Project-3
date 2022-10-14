@@ -1,4 +1,4 @@
-0,Cooper Kupp,WR,191,145,75.9%,1947,16,Los Angeles Rams,28
+0,Cooper Kupp,WR,191,145,75.9%,1947,16,,28
 1,Davante Adams,WR,169,123,72.8%,1553,11,Green Bay Packers,29
 2,Tyreek Hill,WR,159,111,69.8%,1239,9,Kansas City Chiefs,27
 3,Justin Jefferson,WR,167,108,64.7%,1616,10,Minnesota Vikings,22
@@ -39,13 +39,13 @@
 38,Amari Cooper,WR,104,68,65.4%,865,8,Dallas Cowboys,27
 39,Noah Fant,TE,90,68,75.6%,670,4,Denver Broncos,24
 40,Kyle Pitts,TE,110,68,61.8%,1026,1,Atlanta Falcons,21
-41,Tyler Boyd,wr,94,67,71.3%,828,5,Cincinnati Bengals,27
+41,Tyler Boyd,WR,94,67,71.3%,828,5,Cincinnati Bengals,27
 42,Adam Thielen,WR,95,67,70.5%,726,10,Minnesota Vikings,31
 43,Russell Gage,WR,94,66,70.2%,770,4,Atlanta Falcons,25
 44,DeVonta Smith,WR,104,64,61.5%,916,5,Philadelphia Eagles,23
 45,A.J. Brown,WR,105,63,60.0%,869,5,Tennessee Titans,24
 46,Laviska Shenault Jr.,WR,100,63,63.0%,619,0,Jacksonville Jaguars,23
-47,D'Andre Swift,rb,78,62,79.5%,452,2,Detroit Lions,22
+47,D'Andre Swift,RB,78,62,79.5%,452,2,Detroit Lions,22
 48,Tyler Conklin,TE,87,61,70.1%,593,3,Minnesota Vikings,26
 49,Tyler Higbee,TE,85,61,71.8%,560,5,Los Angeles Rams,28
 50,T.J. Hockenson,TE,84,61,72.6%,583,4,Detroit Lions,24
@@ -56,21 +56,21 @@
 55,Courtland Sutton,WR,98,58,59.2%,776,2,Denver Broncos,26
 56,Brandon Aiyuk,WR,84,56,66.7%,826,5,San Francisco 49ers,23
 57,Dallas Goedert,TE,76,56,73.7%,830,4,Philadelphia Eagles,26
-58,Kendrick Bourne,wr,70,55,78.6%,800,5,New England Patriots,26
+58,Kendrick Bourne,WR,70,55,78.6%,800,5,New England Patriots,26
 59,Rob Gronkowski,TE,89,55,61.8%,802,6,,32
 60,Darren Waller,TE,93,55,59.1%,665,2,Las Vegas Raiders,29
 61,A.J. Green,WR,92,54,58.7%,848,3,Arizona Cardinals,33
 62,Josh Jacobs,RB,64,54,84.4%,348,0,Las Vegas Raiders,23
-63,Rondale Moore,wr,64,54,84.4%,435,1,Arizona Cardinals,21
+63,Rondale Moore,WR,64,54,84.4%,435,1,Arizona Cardinals,21
 64,Robbie Anderson,WR,110,53,48.2%,519,5,Carolina Panthers,28
 65,Tim Patrick,WR,85,53,62.4%,734,5,Denver Broncos,28
 66,Aaron Jones,RB,65,52,80.0%,391,6,Green Bay Packers,27
 67,Jarvis Landry,WR,87,52,59.8%,570,2,Cleveland Browns,29
 68,Cordarrelle Patterson,RB,69,52,75.4%,548,5,Atlanta Falcons,30
-69,Jamison Crowder,wr,71,51,71.8%,447,2,New York Jets,28
-70,Hunter Henry,te,75,50,66.7%,603,9,New England Patriots,27
+69,Jamison Crowder,WR,71,51,71.8%,447,2,New York Jets,28
+70,Hunter Henry,TE,75,50,66.7%,603,9,New England Patriots,27
 71,Van Jefferson,WR,89,50,56.2%,802,6,Los Angeles Rams,25
-72,K.J. Osborn,wr,82,50,61.0%,655,7,Minnesota Vikings,24
+72,K.J. Osborn,WR,82,50,61.0%,655,7,Minnesota Vikings,24
 73,Myles Gaskin,RB,63,49,77.8%,234,4,Miami Dolphins,24
 74,Dawson Knox,TE,71,49,69.0%,587,9,Buffalo Bills,25
 75,C.J. Uzomah,TE,63,49,77.8%,493,5,Cincinnati Bengals,28
@@ -80,456 +80,456 @@
 79,Ezekiel Elliott,RB,65,47,72.3%,287,2,Dallas Cowboys,26
 80,Zay Jones,WR,70,47,67.1%,546,1,Las Vegas Raiders,26
 81,Alvin Kamara,RB,67,47,70.1%,439,5,New Orleans Saints,26
-82,Darrel Williams,rb,57,47,82.5%,452,2,Kansas City Chiefs,26
-83,Rashod Bateman,wr,68,46,67.6%,515,1,Baltimore Ravens,22
-84,Braxton Berrios+,wr,65,46,70.8%,431,2,New York Jets,26
+82,Darrel Williams,RB,57,47,82.5%,452,2,Kansas City Chiefs,26
+83,Rashod Bateman,WR,68,46,67.6%,515,1,Baltimore Ravens,22
+84,Braxton Berrios+,WR,65,46,70.8%,431,2,New York Jets,26
 85,Marquez Callaway,WR,84,46,54.8%,698,6,New Orleans Saints,23
 86,Evan Engram,TE,73,46,63.0%,408,3,New York Giants,27
-87,Cedrick Wilson Jr.,wr,61,45,73.8%,602,6,Dallas Cowboys,26
+87,Cedrick Wilson Jr.,WR,61,45,73.8%,602,6,Dallas Cowboys,26
 88,Robert Woods,WR,69,45,65.2%,556,4,Los Angeles Rams,29
 89,Odell Beckham Jr.,,82,44,53.7%,537,5,,29
-90,Mike Davis,rb,58,44,75.9%,259,1,Atlanta Falcons,28
+90,Mike Davis,RB,58,44,75.9%,259,1,Atlanta Falcons,28
 91,Chase Edmonds,RB,53,43,81.1%,311,0,Arizona Cardinals,25
-92,J.D. McKissic,wr,53,43,81.1%,397,2,Washington Commanders,28
-93,Elijah Moore,wr,77,43,55.8%,538,5,New York Jets,21
+92,J.D. McKissic,WR,53,43,81.1%,397,2,Washington Commanders,28
+93,Elijah Moore,WR,77,43,55.8%,538,5,New York Jets,21
 94,Quez Watkins,WR,62,43,69.4%,647,1,Philadelphia Eagles,23
-95,Javonte Williams,rb,53,43,81.1%,316,3,Denver Broncos,21
-96,Antonio Brown,wr,62,42,67.7%,545,4,Tampa Bay Buccaneers,33
+95,Javonte Williams,RB,53,43,81.1%,316,3,Denver Broncos,21
+96,Antonio Brown,WR,62,42,67.7%,545,4,Tampa Bay Buccaneers,33
 97,Antonio Gibson ,RB,52,42,80.8%,294,3,Washington Commanders,23
 98,DeAndre Hopkins,WR,64,42,65.6%,572,8,Arizona Cardinals,29
 99,Joe Mixon,RB,48,42,87.5%,314,3,Cincinnati Bengals,25
 100,David Montgomery,RB,51,42,82.4%,301,0,Chicago Bears,24
-101,Byron Pringle,wr,60,42,70.0%,568,5,Kansas City Chiefs,28
+101,Byron Pringle,WR,60,42,70.0%,568,5,Kansas City Chiefs,28
 102,Emmanuel Sanders,WR,72,42,58.3%,626,4,Buffalo Bills,34
 103,Saquon Barkley,RB,57,41,71.9%,263,2,New York Giants,24
-104,Brandon Bolden,rb,49,41,83.7%,405,2,New England Patriots,31
+104,Brandon Bolden,RB,49,41,83.7%,405,2,New England Patriots,31
 105,Adam Humphries,WR,62,41,66.1%,383,0,Washington Commanders,28
-106,Devontae Booker,rb,45,40,88.9%,268,1,New York Giants,29
-107,Nyheim Hines,rb,57,40,70.2%,310,1,Indianapolis Colts,25
+106,Devontae Booker,RB,45,40,88.9%,268,1,New York Giants,29
+107,Nyheim Hines,RB,57,40,70.2%,310,1,Indianapolis Colts,25
 108,Allen Lazard ,WR,60,40,66.7%,513,8,Green Bay Packers,26
 109,DeVante Parker,WR,73,40,54.8%,515,2,Miami Dolphins,28
 110,Devin Singletary,RB,50,40,80.0%,228,1,Buffalo Bills,24
 111,Jonathan Taylor,RB,51,40,78.4%,360,2,Indianapolis Colts,22
-112,Ray-Ray McCloud,wr,66,39,59.1%,277,0,Pittsburgh Steelers,25
-113,Tony Pollard,rb,46,39,84.8%,337,0,Dallas Cowboys,24
-114,Kadarius Toney,wr,57,39,68.4%,420,0,New York Giants,22
+112,Ray-Ray McCloud,WR,66,39,59.1%,277,0,Pittsburgh Steelers,25
+113,Tony Pollard,RB,46,39,84.8%,337,0,Dallas Cowboys,24
+114,Kadarius Toney,WR,57,39,68.4%,420,0,New York Giants,22
 115,Ameer Abdullah,,53,38,71.7%,289,1,Two Teams,28
 116,Austin Hooper,TE,61,38,62.3%,345,3,Cleveland Browns,27
-117,Jerry Jeudy,wr,56,38,67.9%,467,0,Denver Broncos,22
+117,Jerry Jeudy,WR,56,38,67.9%,467,0,Denver Broncos,22
 118,Zach Pascal,WR,69,38,55.1%,384,3,Indianapolis Colts,27
 119,Allen Robinson,WR,66,38,57.6%,410,1,,28
-120,Nick Westbrook-Ikhine,wr,57,38,66.7%,476,4,Tennessee Titans,24
+120,Nick Westbrook-Ikhine,WR,57,38,66.7%,476,4,Tennessee Titans,24
 121,Nelson Agholor,WR,64,37,57.8%,473,3,New England Patriots,28
-122,James Conner,rb,39,37,94.9%,375,3,Arizona Cardinals,26
+122,James Conner,RB,39,37,94.9%,375,3,Arizona Cardinals,26
 123,Kenny Golladay,WR,76,37,48.7%,521,0,New York Giants,28
-124,Christian McCaffrey,rb,41,37,90.2%,343,1,Carolina Panthers,25
+124,Christian McCaffrey,RB,41,37,90.2%,343,1,Carolina Panthers,25
 125,Michael Carter,RB,55,36,65.5%,325,0,New York Jets,22
-126,Deonte Harty,wr,59,36,61.0%,570,3,New Orleans Saints,24
-127,Tyler Johnson,wr,55,36,65.5%,360,0,Tampa Bay Buccaneers,23
+126,Deonte Harty,WR,59,36,61.0%,570,3,New Orleans Saints,24
+127,Tyler Johnson,WR,55,36,65.5%,360,0,Tampa Bay Buccaneers,23
 128,David Njoku,TE,53,36,67.9%,475,4,Cleveland Browns,25
 129,Sterling Shepard,WR,53,36,67.9%,366,1,New York Giants,28
 130,Dan Arnold,,52,35,67.3%,408,0,Two Teams,26
-131,Gabriel Davis,wr,63,35,55.6%,549,6,Buffalo Bills,22
-132,Michael Gallup,wr,62,35,56.5%,445,2,Dallas Cowboys,25
+131,Gabriel Davis,WR,63,35,55.6%,549,6,Buffalo Bills,22
+132,Michael Gallup,WR,62,35,56.5%,445,2,Dallas Cowboys,25
 133,Dalvin Cook,RB,49,34,69.4%,224,0,Minnesota Vikings,26
 134,Corey Davis,WR,59,34,57.6%,492,4,New York Jets,26
-135,AJ Dillon ,rb,37,34,91.9%,313,2,Green Bay Packers,23
+135,AJ Dillon ,RB,37,34,91.9%,313,2,Green Bay Packers,23
 136,Bryan Edwards,WR,59,34,57.6%,571,3,Las Vegas Raiders,23
-137,Anthony Firkser,fb,43,34,79.1%,291,2,Tennessee Titans,26
+137,Anthony Firkser,FB,43,34,79.1%,291,2,Tennessee Titans,26
 138,Devonta Freeman,RB,42,34,81.0%,190,1,Baltimore Ravens,29
-139,Ty Johnson,rb,55,34,61.8%,372,2,New York Jets,24
+139,Ty Johnson,RB,55,34,61.8%,372,2,New York Jets,24
 140,Donovan Peoples-Jones,WR,58,34,58.6%,597,3,Cleveland Browns,22
 141,Durham Smythe,TE,41,34,82.9%,357,0,Miami Dolphins,26
-142,Nico Collins,wr,60,33,55.0%,446,1,Houston Texans,22
-143,Devin Duvernay,wr,47,33,70.2%,272,2,Baltimore Ravens,24
-144,Kenneth Gainwell,rb,50,33,66.0%,253,1,Philadelphia Eagles,22
+142,Nico Collins,WR,60,33,55.0%,446,1,Houston Texans,22
+143,Devin Duvernay,WR,47,33,70.2%,272,2,Baltimore Ravens,24
+144,Kenneth Gainwell,RB,50,33,66.0%,253,1,Philadelphia Eagles,22
 145,Albert Okwuegbunam,TE,40,33,82.5%,330,2,Denver Broncos,23
 146,Josh Palmer,WR,49,33,67.3%,353,4,Los Angeles Chargers,23
 147,Jalen Reagor,WR,57,33,57.9%,299,2,Philadelphia Eagles,22
-148,Laquon Treadwell,wr,51,33,64.7%,434,1,Jacksonville Jaguars,26
-149,David Johnson,rb,42,32,76.2%,225,1,,30
-150,Alexander Mattison,rb,39,32,82.1%,228,1,Minnesota Vikings,23
+148,Laquon Treadwell,WR,51,33,64.7%,434,1,Jacksonville Jaguars,26
+149,David Johnson,RB,42,32,76.2%,225,1,,30
+150,Alexander Mattison,RB,39,32,82.1%,228,1,Minnesota Vikings,23
 151,Tre'Quan Smith,WR,50,32,64.0%,377,3,New Orleans Saints,25
-152,Jalen Guyton,wr,48,31,64.6%,448,3,Los Angeles Chargers,24
+152,Jalen Guyton,WR,48,31,64.6%,448,3,Los Angeles Chargers,24
 153,Julio Jones,WR,48,31,64.6%,434,1,Tennessee Titans,32
-154,Calvin Ridley,wr,52,31,59.6%,281,2,Atlanta Falcons,27
+154,Calvin Ridley,WR,52,31,59.6%,281,2,Atlanta Falcons,27
 155,James Robinson,RB,46,31,67.4%,222,0,Jacksonville Jaguars,23
 156,Geoff Swaim,TE,40,31,77.5%,210,3,Tennessee Titans,28
 157,Olamide Zaccheaus,WR,53,31,58.5%,406,3,Atlanta Falcons,24
-158,Cameron Brate,te,57,30,52.6%,245,4,Tampa Bay Buccaneers,30
-159,Kenyan Drake,rb,40,30,75.0%,291,1,Las Vegas Raiders,27
+158,Cameron Brate,TE,57,30,52.6%,245,4,Tampa Bay Buccaneers,30
+159,Kenyan Drake,RB,40,30,75.0%,291,1,Las Vegas Raiders,27
 160,Kyle Juszczyk,FB,38,30,78.9%,296,1,San Francisco 49ers,30
-161,Foster Moreau,te,44,30,68.2%,373,3,Las Vegas Raiders,24
-162,Chester Rogers,wr,43,30,69.8%,301,1,Tennessee Titans,27
-163,Ricky Seals-Jones,te,49,30,61.2%,271,2,Washington Commanders,26
+161,Foster Moreau,TE,44,30,68.2%,373,3,Las Vegas Raiders,24
+162,Chester Rogers,WR,43,30,69.8%,301,1,Tennessee Titans,27
+163,Ricky Seals-Jones,TE,49,30,61.2%,271,2,Washington Commanders,26
 164,Jack Doyle,TE,43,29,67.4%,302,3,Indianapolis Colts,31
 165,Darrell Henderson,RB,40,29,72.5%,176,3,Los Angeles Rams,24
 166,Josh Reynolds,,49,29,59.2%,396,2,Two Teams,26
-167,Randall Cobb,wr,39,28,71.8%,375,5,Green Bay Packers,31
+167,Randall Cobb,WR,39,28,71.8%,375,5,Green Bay Packers,31
 168,Keelan Cole,WR,51,28,54.9%,449,1,New York Jets,28
 169,Melvin Gordon,RB,38,28,73.7%,213,2,Denver Broncos,28
-170,Jeremy McNichols,rb,38,28,73.7%,240,1,Tennessee Titans,26
+170,Jeremy McNichols,RB,38,28,73.7%,240,1,Tennessee Titans,26
 171,Jonnu Smith,TE,45,28,62.2%,294,1,New England Patriots,26
 172,Ryan Griffin,TE,42,27,64.3%,261,2,New York Jets,31
 173,Mark Ingram,,35,27,77.1%,162,0,Two Teams,32
-174,Samaje Perine,rb,31,27,87.1%,196,1,Cincinnati Bengals,26
+174,Samaje Perine,RB,31,27,87.1%,196,1,Cincinnati Bengals,26
 175,Adam Trautman,TE,43,27,62.8%,263,2,New Orleans Saints,24
 176,Sammy Watkins,WR,49,27,55.1%,394,1,Baltimore Ravens,28
-177,Damiere Byrd,wr,38,26,68.4%,329,1,Chicago Bears,28
-178,Hayden Hurst,te,31,26,83.9%,221,3,Atlanta Falcons,28
+177,Damiere Byrd,WR,38,26,68.4%,329,1,Chicago Bears,28
+178,Hayden Hurst,TE,31,26,83.9%,221,3,Atlanta Falcons,28
 179,Kyle Rudolph,TE,39,26,66.7%,257,1,,32
 180,Miles Sanders,RB,34,26,76.5%,158,0,Philadelphia Eagles,24
-181,Darius Slayton,wr,58,26,44.8%,339,2,New York Giants,24
+181,Darius Slayton,WR,58,26,44.8%,339,2,New York Giants,24
 182,Marquez Valdes-Scantling,WR,55,26,47.3%,430,3,Green Bay Packers,27
 183,Jamaal Williams,RB,28,26,92.9%,157,0,Detroit Lions,26
-184,Rex Burkhead,rb,32,25,78.1%,186,0,Houston Texans,31
-185,Josiah Deguara,te,33,25,75.8%,245,2,Green Bay Packers,24
+184,Rex Burkhead,RB,32,25,78.1%,186,0,Houston Texans,31
+185,Josiah Deguara,TE,33,25,75.8%,245,2,Green Bay Packers,24
 186,Chuba Hubbard,RB,37,25,67.6%,174,1,Carolina Panthers,22
 187,Demarcus Robinson,WR,41,25,61.0%,264,3,Kansas City Chiefs,27
-188,Tajae Sharpe,wr,37,25,67.6%,230,0,Atlanta Falcons,27
-189,Freddie Swain,wr,40,25,62.5%,343,4,Seattle Seahawks,23
-190,Albert Wilson,wr,39,25,64.1%,213,0,Miami Dolphins,29
-191,Jamal Agnew,db,39,24,61.5%,229,1,Jacksonville Jaguars,26
-192,Jordan Akins,te,33,24,72.7%,214,0,Houston Texans,29
-193,Mo Alie-Cox,te,45,24,53.3%,316,4,Indianapolis Colts,28
-194,Danny Amendola,wr,38,24,63.2%,248,3,Houston Texans,36
-195,Tavon Austin,wr,37,24,64.9%,213,1,Jacksonville Jaguars,31
-196,DeAndre Carter,wr,44,24,54.5%,296,3,Washington Commanders,28
-197,Rashard Higgins,wr,47,24,51.1%,275,1,Cleveland Browns,27
-198,Jauan Jennings,wr,38,24,63.2%,282,5,San Francisco 49ers,24
+188,Tajae Sharpe,WR,37,25,67.6%,230,0,Atlanta Falcons,27
+189,Freddie Swain,WR,40,25,62.5%,343,4,Seattle Seahawks,23
+190,Albert Wilson,WR,39,25,64.1%,213,0,Miami Dolphins,29
+191,Jamal Agnew,DB,39,24,61.5%,229,1,Jacksonville Jaguars,26
+192,Jordan Akins,TE,33,24,72.7%,214,0,Houston Texans,29
+193,Mo Alie-Cox,TE,45,24,53.3%,316,4,Indianapolis Colts,28
+194,Danny Amendola,WR,38,24,63.2%,248,3,Houston Texans,36
+195,Tavon Austin,WR,37,24,64.9%,213,1,Jacksonville Jaguars,31
+196,DeAndre Carter,WR,44,24,54.5%,296,3,Washington Commanders,28
+197,Rashard Higgins,WR,47,24,51.1%,275,1,Cleveland Browns,27
+198,Jauan Jennings,WR,38,24,63.2%,282,5,San Francisco 49ers,24
 199,James O'Shaughnessy,TE,34,24,70.6%,244,0,Jacksonville Jaguars,29
-200,Henry Ruggs III,wr,36,24,66.7%,469,2,Las Vegas Raiders,22
-201,James Washington,wr,44,24,54.5%,285,2,Pittsburgh Steelers,25
-202,Giovani Bernard,rb,29,23,79.3%,123,3,Tampa Bay Buccaneers,30
+200,Henry Ruggs III,WR,36,24,66.7%,469,2,Las Vegas Raiders,22
+201,James Washington,WR,44,24,54.5%,285,2,Pittsburgh Steelers,25
+202,Giovani Bernard,RB,29,23,79.3%,123,3,Tampa Bay Buccaneers,30
 203,Pharaoh Brown,TE,34,23,67.6%,171,0,Houston Texans,27
-204,Jamycal Hasty,rb,29,23,79.3%,157,0,San Francisco 49ers,25
+204,Jamycal Hasty,RB,29,23,79.3%,157,0,San Francisco 49ers,25
 205,T.Y. Hilton,WR,37,23,62.2%,331,3,Indianapolis Colts,32
 206,Marcedes Lewis,TE,28,23,82.1%,214,0,Green Bay Packers,37
-207,Zack Moss,rb,32,23,71.9%,197,1,Buffalo Bills,24
+207,Zack Moss,RB,32,23,71.9%,197,1,Buffalo Bills,24
 208,Chris Conley,WR,37,22,59.5%,323,2,Houston Texans,29
-209,Kareem Hunt,rb,27,22,81.5%,174,0,,26
-210,Justin Jackson,rb,25,22,88.0%,178,0,Los Angeles Chargers,25
-211,Harrison Bryant,te,28,21,75.0%,233,3,Cleveland Browns,23
-212,DeeJay Dallas,rb,23,21,91.3%,133,0,Seattle Seahawks,23
+209,Kareem Hunt,RB,27,22,81.5%,174,0,,26
+210,Justin Jackson,RB,25,22,88.0%,178,0,Los Angeles Chargers,25
+211,Harrison Bryant,TE,28,21,75.0%,233,3,Cleveland Browns,23
+212,DeeJay Dallas,RB,23,21,91.3%,133,0,Seattle Seahawks,23
 213,Will Dissly,TE,26,21,80.8%,231,1,Seattle Seahawks,25
-214,Sony Michel,rb,33,21,63.6%,128,1,Los Angeles Rams,26
-215,Chris Moore,wr,22,21,95.5%,227,2,Houston Texans,28
+214,Sony Michel,RB,33,21,63.6%,128,1,Los Angeles Rams,26
+215,Chris Moore,WR,22,21,95.5%,227,2,Houston Texans,28
 216,John Bates,TE,25,20,80.0%,249,1,Washington Commanders,24
 217,Nick Chubb,RB,25,20,80.0%,174,1,Cleveland Browns,26
-218,Marquise Goodwin,wr,40,20,50.0%,313,1,Chicago Bears,31
+218,Marquise Goodwin,WR,40,20,50.0%,313,1,Chicago Bears,31
 219,DeSean Jackson,,34,20,58.8%,454,2,Two Teams,35
-220,Brevin Jordan,te,28,20,71.4%,178,3,Houston Texans,21
-221,Isaiah McKenzie,wr,26,20,76.9%,178,1,Buffalo Bills,26
-222,Donald Parham,te,27,20,74.1%,190,3,Los Angeles Chargers,24
+220,Brevin Jordan,TE,28,20,71.4%,178,3,Houston Texans,21
+221,Isaiah McKenzie,WR,26,20,76.9%,178,1,Buffalo Bills,26
+222,Donald Parham,TE,27,20,74.1%,190,3,Los Angeles Chargers,24
 223,Tommy Tremble,TE,35,20,57.1%,180,1,Carolina Panthers,21
 224,Clyde Edwards-Helaire,RB,23,19,82.6%,129,2,Kansas City Chiefs,22
 225,Zach Gentry,TE,25,19,76.0%,167,0,Pittsburgh Steelers,25
-226,Dontrell Hilliard,rb,26,19,73.1%,87,0,Tennessee Titans,26
-227,D'Ernest Johnson,rb,25,19,76.0%,137,0,Cleveland Browns,25
+226,Dontrell Hilliard,RB,26,19,73.1%,87,0,Tennessee Titans,26
+227,D'Ernest Johnson,RB,25,19,76.0%,137,0,Cleveland Browns,25
 228,Elijah Mitchell,RB,20,19,95.0%,137,1,San Francisco 49ers,23
-229,Antoine Wesley,wr,32,19,59.4%,208,3,Arizona Cardinals,24
-230,Demetric Felton,wr,21,18,85.7%,181,2,Cleveland Browns,23
+229,Antoine Wesley,WR,32,19,59.4%,208,3,Arizona Cardinals,24
+230,Demetric Felton,WR,21,18,85.7%,181,2,Cleveland Browns,23
 231,Damien Harris,RB,21,18,85.7%,132,0,New England Patriots,24
 232,Derrick Henry ,RB,20,18,90.0%,154,0,Tennessee Titans,27
 233,Ian Thomas,TE,30,18,60.0%,188,0,Carolina Panthers,25
-234,Logan Thomas,te,25,18,72.0%,196,3,Washington Commanders,30
-235,Robert Tonyan,te,29,18,62.1%,204,2,Green Bay Packers,27
-236,Brandon Zylstra,wr,25,18,72.0%,250,1,Carolina Panthers,28
+234,Logan Thomas,TE,25,18,72.0%,196,3,Washington Commanders,30
+235,Robert Tonyan,TE,29,18,62.1%,204,2,Green Bay Packers,27
+236,Brandon Zylstra,WR,25,18,72.0%,250,1,Carolina Panthers,28
 237,C.J. Ham,FB,18,17,94.4%,125,0,Minnesota Vikings,28
-238,Terrace Marshall Jr.,wr,30,17,56.7%,138,0,Carolina Panthers,21
-239,Stephen Anderson,te,19,16,84.2%,165,1,,28
-240,Noah Brown,wr,25,16,64.0%,184,0,Dallas Cowboys,25
-241,Travis Homer,rb,20,16,80.0%,161,0,Seattle Seahawks,23
-242,Tyler Kroft,te,25,16,64.0%,173,1,New York Jets,29
-243,Ty Montgomery,wr,26,16,61.5%,95,0,New Orleans Saints,28
-244,James Proche,wr,20,16,80.0%,202,0,Baltimore Ravens,25
-245,Damien Williams,rb,23,16,69.6%,103,1,Chicago Bears,29
-246,Maxx Williams,te,17,16,94.1%,193,1,Arizona Cardinals,27
-247,Quintez Cephus,wr,22,15,68.2%,204,2,Detroit Lions,23
-248,Chris Evans,rb,17,15,88.2%,151,2,Cincinnati Bengals,24
-249,Kendall Hinton,wr,23,15,65.2%,175,1,Denver Broncos,24
-250,Mohamed Sanu,wr,24,15,62.5%,177,0,San Francisco 49ers,32
-251,Cam Sims,wr,23,15,65.2%,211,2,Washington Commanders,25
-252,JuJu Smith-Schuster,wr,28,15,53.6%,129,0,Pittsburgh Steelers,25
-253,Jimmy Graham,te,23,14,60.9%,167,3,Chicago Bears,35
-254,Khalil Herbert,rb,16,14,87.5%,96,0,Chicago Bears,23
-255,Mack Hollins,wr,28,14,50.0%,223,4,Miami Dolphins,28
+238,Terrace Marshall Jr.,WR,30,17,56.7%,138,0,Carolina Panthers,21
+239,Stephen Anderson,TE,19,16,84.2%,165,1,,28
+240,Noah Brown,WR,25,16,64.0%,184,0,Dallas Cowboys,25
+241,Travis Homer,RB,20,16,80.0%,161,0,Seattle Seahawks,23
+242,Tyler Kroft,TE,25,16,64.0%,173,1,New York Jets,29
+243,Ty Montgomery,WR,26,16,61.5%,95,0,New Orleans Saints,28
+244,James Proche,WR,20,16,80.0%,202,0,Baltimore Ravens,25
+245,Damien Williams,RB,23,16,69.6%,103,1,Chicago Bears,29
+246,Maxx Williams,TE,17,16,94.1%,193,1,Arizona Cardinals,27
+247,Quintez Cephus,WR,22,15,68.2%,204,2,Detroit Lions,23
+248,Chris Evans,RB,17,15,88.2%,151,2,Cincinnati Bengals,24
+249,Kendall Hinton,WR,23,15,65.2%,175,1,Denver Broncos,24
+250,Mohamed Sanu,WR,24,15,62.5%,177,0,San Francisco 49ers,32
+251,Cam Sims,WR,23,15,65.2%,211,2,Washington Commanders,25
+252,JuJu Smith-Schuster,WR,28,15,53.6%,129,0,Pittsburgh Steelers,25
+253,Jimmy Graham,TE,23,14,60.9%,167,3,Chicago Bears,35
+254,Khalil Herbert,RB,16,14,87.5%,96,0,Chicago Bears,23
+255,Mack Hollins,WR,28,14,50.0%,223,4,Miami Dolphins,28
 256,O.J. Howard,TE,21,14,66.7%,135,1,Tampa Bay Buccaneers,27
-257,MyCole Pruitt,te,18,14,77.8%,145,3,Tennessee Titans,29
-258,Rhamondre Stevenson,rb,18,14,77.8%,123,0,New England Patriots,23
-259,Ashton Dulin,wr,22,13,59.1%,173,2,Indianapolis Colts,24
-260,KhaDarel Hodge,wr,27,13,48.1%,157,0,Detroit Lions,26
-261,Lil'Jordan Humphrey,wr,18,13,72.2%,249,2,New Orleans Saints,23
-262,Juwan Johnson,wr,22,13,59.1%,159,4,New Orleans Saints,25
-263,Jerick McKinnon,rb,20,13,65.0%,107,1,Kansas City Chiefs,29
-264,Dare Ogunbowale,rb,21,13,61.9%,114,1,Jacksonville Jaguars,27
-265,Boston Scott,rb,16,13,81.3%,83,0,Philadelphia Eagles,26
-266,Salvon Ahmed,rb,19,12,63.2%,117,0,Miami Dolphins,23
+257,MyCole Pruitt,TE,18,14,77.8%,145,3,Tennessee Titans,29
+258,Rhamondre Stevenson,RB,18,14,77.8%,123,0,New England Patriots,23
+259,Ashton Dulin,WR,22,13,59.1%,173,2,Indianapolis Colts,24
+260,KhaDarel Hodge,WR,27,13,48.1%,157,0,Detroit Lions,26
+261,Lil'Jordan Humphrey,WR,18,13,72.2%,249,2,New Orleans Saints,23
+262,Juwan Johnson,WR,22,13,59.1%,159,4,New Orleans Saints,25
+263,Jerick McKinnon,RB,20,13,65.0%,107,1,Kansas City Chiefs,29
+264,Dare Ogunbowale,RB,21,13,61.9%,114,1,Jacksonville Jaguars,27
+265,Boston Scott,RB,16,13,81.3%,83,0,Philadelphia Eagles,26
+266,Salvon Ahmed,RB,19,12,63.2%,117,0,Miami Dolphins,23
 267,Dyami Brown,WR,25,12,48.0%,165,0,Washington Commanders,22
-268,Eric Ebron,te,18,12,66.7%,84,1,Pittsburgh Steelers,28
-269,Isaiah Ford,wr,17,12,70.6%,161,2,,25
-270,N'Keal Harry,wr,22,12,54.5%,184,0,New England Patriots,24
-271,Carlos Hyde,rb,21,12,57.1%,65,0,Jacksonville Jaguars,31
-272,Jalen Richard,rb,14,12,85.7%,72,0,Las Vegas Raiders,28
-273,Adam Shaheen,te,16,12,75.0%,110,0,Miami Dolphins,27
-274,Malik Turner,wr,16,12,75.0%,149,3,Dallas Cowboys,25
-275,James White,rb,14,12,85.7%,94,0,New England Patriots,29
-276,Brock Wright,te,17,12,70.6%,117,2,Detroit Lions,23
-277,Tevin Coleman,rb,16,11,68.8%,49,0,New York Jets,28
-278,Kylen Granson,te,15,11,73.3%,106,0,Indianapolis Colts,23
+268,Eric Ebron,TE,18,12,66.7%,84,1,Pittsburgh Steelers,28
+269,Isaiah Ford,WR,17,12,70.6%,161,2,,25
+270,N'Keal Harry,WR,22,12,54.5%,184,0,New England Patriots,24
+271,Carlos Hyde,RB,21,12,57.1%,65,0,Jacksonville Jaguars,31
+272,Jalen Richard,RB,14,12,85.7%,72,0,Las Vegas Raiders,28
+273,Adam Shaheen,TE,16,12,75.0%,110,0,Miami Dolphins,27
+274,Malik Turner,WR,16,12,75.0%,149,3,Dallas Cowboys,25
+275,James White,RB,14,12,85.7%,94,0,New England Patriots,29
+276,Brock Wright,TE,17,12,70.6%,117,2,Detroit Lions,23
+277,Tevin Coleman,RB,16,11,68.8%,49,0,New York Jets,28
+278,Kylen Granson,TE,15,11,73.3%,106,0,Indianapolis Colts,23
 279,Jakeem Grant,,17,11,64.7%,132,2,Two Teams,29
 280,Blake Jarwin,TE,17,11,64.7%,96,2,Dallas Cowboys,27
-281,Collin Johnson,wr,21,11,52.4%,105,0,New York Giants,24
-282,Breshad Perriman,wr,18,11,61.1%,167,1,Tampa Bay Buccaneers,28
-283,John Ross,wr,20,11,55.0%,224,1,New York Giants,26
+281,Collin Johnson,WR,21,11,52.4%,105,0,New York Giants,24
+282,Breshad Perriman,WR,18,11,61.1%,167,1,Tampa Bay Buccaneers,28
+283,John Ross,WR,20,11,55.0%,224,1,New York Giants,26
 284,Drew Sample,TE,15,11,73.3%,81,0,Cincinnati Bengals,25
-285,Ben Skowronek,wr,20,11,55.0%,133,0,Los Angeles Rams,24
-286,Peyton Barber,rb,13,10,76.9%,67,0,Las Vegas Raiders,27
-287,Trinity Benson,wr,22,10,45.5%,103,0,Detroit Lions,24
-288,Parris Campbell,wr,20,10,50.0%,162,1,Indianapolis Colts,24
-289,D'Wayne Eskridge,wr,20,10,50.0%,64,1,Seattle Seahawks,24
+285,Ben Skowronek,WR,20,11,55.0%,133,0,Los Angeles Rams,24
+286,Peyton Barber,RB,13,10,76.9%,67,0,Las Vegas Raiders,27
+287,Trinity Benson,WR,22,10,45.5%,103,0,Detroit Lions,24
+288,Parris Campbell,WR,20,10,50.0%,162,1,Indianapolis Colts,24
+289,D'Wayne Eskridge,WR,20,10,50.0%,64,1,Seattle Seahawks,24
 290,Royce Freeman,,16,10,62.5%,77,0,Two Teams,25
-291,Cyril Grayson,wr,12,10,83.3%,212,2,Tampa Bay Buccaneers,28
-292,Alec Ingold,fb,12,10,83.3%,85,1,Las Vegas Raiders,25
-293,Ronald Jones II,rb,13,10,76.9%,64,0,Tampa Bay Buccaneers,24
-294,Latavius Murray,rb,13,10,76.9%,75,0,Baltimore Ravens,31
-295,Jaret Patterson,rb,11,10,90.9%,73,0,Washington Commanders,22
-296,Dante Pettis,wr,16,10,62.5%,87,1,New York Giants,26
-297,Anthony Schwartz,wr,23,10,43.5%,135,1,Cleveland Browns,21
-298,Dede Westbrook,wr,15,10,66.7%,68,0,Minnesota Vikings,28
-299,Blake Bell,te,13,9,69.2%,87,0,,30
-300,Alex Collins,rb,10,9,90.0%,87,0,Seattle Seahawks,27
-301,D'Onta Foreman,rb,11,9,81.8%,123,0,Tennessee Titans,25
-302,Jacob Hollister,te,14,9,64.3%,55,1,Jacksonville Jaguars,28
-303,Marcus Johnson,wr,19,9,47.4%,160,0,Tennessee Titans,27
-304,Dax Milne,wr,14,9,64.3%,83,0,Washington Commanders,22
-305,Josh Oliver,te,15,9,60.0%,66,0,Baltimore Ravens,24
-306,Elijhaa Penny,rb,13,9,69.2%,30,1,New York Giants,28
-307,Trent Sherfield,wr,20,9,45.0%,87,1,San Francisco 49ers,25
+291,Cyril Grayson,WR,12,10,83.3%,212,2,Tampa Bay Buccaneers,28
+292,Alec Ingold,FB,12,10,83.3%,85,1,Las Vegas Raiders,25
+293,Ronald Jones II,RB,13,10,76.9%,64,0,Tampa Bay Buccaneers,24
+294,Latavius Murray,RB,13,10,76.9%,75,0,Baltimore Ravens,31
+295,Jaret Patterson,RB,11,10,90.9%,73,0,Washington Commanders,22
+296,Dante Pettis,WR,16,10,62.5%,87,1,New York Giants,26
+297,Anthony Schwartz,WR,23,10,43.5%,135,1,Cleveland Browns,21
+298,Dede Westbrook,WR,15,10,66.7%,68,0,Minnesota Vikings,28
+299,Blake Bell,TE,13,9,69.2%,87,0,,30
+300,Alex Collins,RB,10,9,90.0%,87,0,Seattle Seahawks,27
+301,D'Onta Foreman,RB,11,9,81.8%,123,0,Tennessee Titans,25
+302,Jacob Hollister,TE,14,9,64.3%,55,1,Jacksonville Jaguars,28
+303,Marcus Johnson,WR,19,9,47.4%,160,0,Tennessee Titans,27
+304,Dax Milne,WR,14,9,64.3%,83,0,Washington Commanders,22
+305,Josh Oliver,TE,15,9,60.0%,66,0,Baltimore Ravens,24
+306,Elijhaa Penny,RB,13,9,69.2%,30,1,New York Giants,28
+307,Trent Sherfield,WR,20,9,45.0%,87,1,San Francisco 49ers,25
 308,Keith Smith,FB,10,9,90.0%,56,0,Atlanta Falcons,29
-309,Lee Smith,te,11,9,81.8%,65,1,Atlanta Falcons,34
-310,Equanimeous St. Brown,wr,17,9,52.9%,98,0,Green Bay Packers,25
-311,Tommy Sweeney,te,12,9,75.0%,44,1,Buffalo Bills,26
-312,Nick Vannett,te,15,9,60.0%,133,1,New Orleans Saints,28
-313,Ty'Son Williams,rb,12,9,75.0%,84,0,Baltimore Ravens,25
-314,Derrick Gore,rb,9,8,88.9%,105,0,Kansas City Chiefs,27
-315,Denzel Mims,wr,23,8,34.8%,133,0,New York Jets,24
+309,Lee Smith,TE,11,9,81.8%,65,1,Atlanta Falcons,34
+310,Equanimeous St. Brown,WR,17,9,52.9%,98,0,Green Bay Packers,25
+311,Tommy Sweeney,TE,12,9,75.0%,44,1,Buffalo Bills,26
+312,Nick Vannett,TE,15,9,60.0%,133,1,New Orleans Saints,28
+313,Ty'Son Williams,RB,12,9,75.0%,84,0,Baltimore Ravens,25
+314,Derrick Gore,RB,9,8,88.9%,105,0,Kansas City Chiefs,27
+315,Denzel Mims,WR,23,8,34.8%,133,0,New York Jets,24
 316,Patrick Ricard,FB,13,8,61.5%,63,1,Baltimore Ravens,27
-317,Eric Saubert,te,12,8,66.7%,47,1,Denver Broncos,27
-318,Jeff Smith,wr,17,8,47.1%,113,0,New York Jets,24
-319,Juwann Winfree,wr,13,8,61.5%,58,0,Green Bay Packers,25
-320,Matt Breida,rb,9,7,77.8%,72,2,Buffalo Bills,26
-321,DJ Chark,wr,22,7,31.8%,154,2,Jacksonville Jaguars,25
+317,Eric Saubert,TE,12,8,66.7%,47,1,Denver Broncos,27
+318,Jeff Smith,WR,17,8,47.1%,113,0,New York Jets,24
+319,Juwann Winfree,WR,13,8,61.5%,58,0,Green Bay Packers,25
+320,Matt Breida,RB,9,7,77.8%,72,2,Buffalo Bills,26
+321,DJ Chark,WR,22,7,31.8%,154,2,Jacksonville Jaguars,25
 322,Phillip Dorsett,,14,7,50.0%,110,0,Three Teams,28
-323,Luke Farrell,te,11,7,63.6%,56,0,Jacksonville Jaguars,24
-324,Noah Gray,te,10,7,70.0%,36,1,Kansas City Chiefs,22
-325,Penny Hart,wr,12,7,58.3%,59,0,Seattle Seahawks,25
-326,Godwin Igwebuike,db,10,7,70.0%,60,0,Detroit Lions,27
+323,Luke Farrell,TE,11,7,63.6%,56,0,Jacksonville Jaguars,24
+324,Noah Gray,TE,10,7,70.0%,36,1,Kansas City Chiefs,22
+325,Penny Hart,WR,12,7,58.3%,59,0,Seattle Seahawks,25
+326,Godwin Igwebuike,DB,10,7,70.0%,60,0,Detroit Lions,27
 327,Jesse James,TE,8,7,87.5%,62,1,Chicago Bears,27
-328,Craig Reynolds,rb,8,7,87.5%,52,0,Detroit Lions,25
-329,Greg Ward,wr,11,7,63.6%,95,3,,26
-330,Jeff Wilson,rb,8,7,87.5%,31,0,San Francisco 49ers,26
-331,Eno Benjamin,rb,7,6,85.7%,42,0,Arizona Cardinals,22
-332,Chris Carson,rb,6,6,100.0%,29,0,Seattle Seahawks,27
-333,Corey Clement,rb,7,6,85.7%,29,1,Dallas Cowboys,27
-334,Jaelon Darden,wr,12,6,50.0%,43,0,Tampa Bay Buccaneers,22
-335,Tom Kennedy,wr,10,6,60.0%,54,0,Detroit Lions,25
+328,Craig Reynolds,RB,8,7,87.5%,52,0,Detroit Lions,25
+329,Greg Ward,WR,11,7,63.6%,95,3,,26
+330,Jeff Wilson,RB,8,7,87.5%,31,0,San Francisco 49ers,26
+331,Eno Benjamin,RB,7,6,85.7%,42,0,Arizona Cardinals,22
+332,Chris Carson,RB,6,6,100.0%,29,0,Seattle Seahawks,27
+333,Corey Clement,RB,7,6,85.7%,29,1,Dallas Cowboys,27
+334,Jaelon Darden,WR,12,6,50.0%,43,0,Tampa Bay Buccaneers,22
+335,Tom Kennedy,WR,10,6,60.0%,54,0,Detroit Lions,25
 336,Chris Manhertz,TE,9,6,66.7%,71,1,Jacksonville Jaguars,29
-337,Tre' McKitty,te,8,6,75.0%,45,0,Los Angeles Chargers,22
+337,Tre' McKitty,TE,8,6,75.0%,45,0,Los Angeles Chargers,22
 338,Anthony Miller,,12,6,50.0%,25,1,Two Teams,27
 339,Rashaad Penny,RB,8,6,75.0%,48,0,Seattle Seahawks,25
-340,Curtis Samuel,wr,9,6,66.7%,27,0,Washington Commanders,25
-341,Shi Smith,wr,11,6,54.5%,104,0,Carolina Panthers,23
-342,Kenny Stills,wr,23,6,26.1%,68,1,New Orleans Saints,29
-343,Preston Williams,wr,16,6,37.5%,71,0,Miami Dolphins,24
+340,Curtis Samuel,WR,9,6,66.7%,27,0,Washington Commanders,25
+341,Shi Smith,WR,11,6,54.5%,104,0,Carolina Panthers,23
+342,Kenny Stills,WR,23,6,26.1%,68,1,New Orleans Saints,29
+343,Preston Williams,WR,16,6,37.5%,71,0,Miami Dolphins,24
 344,Antony Auclair,TE,5,5,100.0%,47,1,Houston Texans,28
 345,Le'Veon Bell,,7,5,71.4%,30,1,Two Teams,29
-346,Dez Fitzpatrick,wr,8,5,62.5%,49,1,Tennessee Titans,24
-347,Jody Fortson,wr,5,5,100.0%,47,2,Kansas City Chiefs,26
-348,Josh Gordon,wr,14,5,35.7%,32,1,Kansas City Chiefs,30
-349,KJ Hamler,wr,10,5,50.0%,74,0,Denver Broncos,22
-350,Parker Hesse,de,6,5,83.3%,43,0,Atlanta Falcons,26
-351,Tony Jones,rb,8,5,62.5%,29,0,New Orleans Saints,24
-352,Joshua Kelley,rb,6,5,83.3%,38,0,Los Angeles Chargers,24
-353,Scott Miller,wr,9,5,55.6%,38,0,Tampa Bay Buccaneers,24
-354,Colby Parkinson,te,8,5,62.5%,33,0,Seattle Seahawks,22
-355,Rodney Smith,rb,5,5,100.0%,48,0,Carolina Panthers,25
-356,Ihmir Smith-Marsette,wr,6,5,83.3%,116,2,Minnesota Vikings,22
-357,Mike Thomas,wr,11,5,45.5%,52,0,Cincinnati Bengals,27
-358,Cody White,wr,6,5,83.3%,33,0,Pittsburgh Steelers,23
-359,Charlie Woerner,te,6,5,83.3%,52,0,,24
-360,Christian Blake,wr,9,4,44.4%,25,0,Atlanta Falcons,25
-361,Kendall Blanton,te,7,4,57.1%,37,0,Los Angeles Rams,26
-362,C.J. Board,wr,6,4,66.7%,51,0,New York Giants,28
-363,Ja'Marcus Bradley,wr,4,4,100.0%,64,0,Cleveland Browns,25
-364,Jason Cabinda,lb,7,4,57.1%,16,1,Detroit Lions,25
-365,Pharoh Cooper,wr,11,4,36.4%,33,0,New York Giants,26
-366,Tyler Davis,te,5,4,80.0%,35,0,Green Bay Packers,24
-367,Ross Dwelley,te,5,4,80.0%,51,1,San Francisco 49ers,26
+346,Dez Fitzpatrick,WR,8,5,62.5%,49,1,Tennessee Titans,24
+347,Jody Fortson,WR,5,5,100.0%,47,2,Kansas City Chiefs,26
+348,Josh Gordon,WR,14,5,35.7%,32,1,Kansas City Chiefs,30
+349,KJ Hamler,WR,10,5,50.0%,74,0,Denver Broncos,22
+350,Parker Hesse,DE,6,5,83.3%,43,0,Atlanta Falcons,26
+351,Tony Jones,RB,8,5,62.5%,29,0,New Orleans Saints,24
+352,Joshua Kelley,RB,6,5,83.3%,38,0,Los Angeles Chargers,24
+353,Scott Miller,WR,9,5,55.6%,38,0,Tampa Bay Buccaneers,24
+354,Colby Parkinson,TE,8,5,62.5%,33,0,Seattle Seahawks,22
+355,Rodney Smith,RB,5,5,100.0%,48,0,Carolina Panthers,25
+356,Ihmir Smith-Marsette,WR,6,5,83.3%,116,2,Minnesota Vikings,22
+357,Mike Thomas,WR,11,5,45.5%,52,0,Cincinnati Bengals,27
+358,Cody White,WR,6,5,83.3%,33,0,Pittsburgh Steelers,23
+359,Charlie Woerner,TE,6,5,83.3%,52,0,,24
+360,Christian Blake,WR,9,4,44.4%,25,0,Atlanta Falcons,25
+361,Kendall Blanton,TE,7,4,57.1%,37,0,Los Angeles Rams,26
+362,C.J. Board,WR,6,4,66.7%,51,0,New York Giants,28
+363,Ja'Marcus Bradley,WR,4,4,100.0%,64,0,Cleveland Browns,25
+364,Jason Cabinda,LB,7,4,57.1%,16,1,Detroit Lions,25
+365,Pharoh Cooper,WR,11,4,36.4%,33,0,New York Giants,26
+366,Tyler Davis,TE,5,4,80.0%,35,0,Green Bay Packers,24
+367,Ross Dwelley,TE,5,4,80.0%,51,1,San Francisco 49ers,26
 368,Darren Fells,,5,4,80.0%,43,0,Two Teams,35
-369,Will Fuller,wr,8,4,50.0%,26,0,Miami Dolphins,27
+369,Will Fuller,WR,8,4,50.0%,26,0,Miami Dolphins,27
 370,Garrett Griffin,TE,4,4,100.0%,39,0,New Orleans Saints,27
-371,Chris Herndon,fb,7,4,57.1%,40,1,Minnesota Vikings,25
-372,Taysom Hill,qb,6,4,66.7%,52,0,New Orleans Saints,31
-373,Chris Hogan,wr,8,4,50.0%,41,1,New Orleans Saints,34
-374,Cody Hollister,wr,7,4,57.1%,33,0,Tennessee Titans,28
-375,Jermar Jefferson,rb,5,4,80.0%,23,0,Detroit Lions,21
-376,Duke Johnson,rb,5,4,80.0%,41,0,Miami Dolphins,28
+371,Chris Herndon,FB,7,4,57.1%,40,1,Minnesota Vikings,25
+372,Taysom Hill,QB,6,4,66.7%,52,0,New Orleans Saints,31
+373,Chris Hogan,WR,8,4,50.0%,41,1,New Orleans Saints,34
+374,Cody Hollister,WR,7,4,57.1%,33,0,Tennessee Titans,28
+375,Jermar Jefferson,RB,5,4,80.0%,23,0,Detroit Lions,21
+376,Duke Johnson,RB,5,4,80.0%,41,0,Miami Dolphins,28
 377,Jakob Johnson,FB,5,4,80.0%,43,0,New England Patriots,27
 378,Phillip Lindsay,,5,4,80.0%,45,1,Two Teams,27
-379,Sean McKeon,te,6,4,66.7%,27,1,Dallas Cowboys,24
-380,Kene Nwangwu,rb,5,4,80.0%,9,0,Minnesota Vikings,23
-381,Qadree Ollison,rb,6,4,66.7%,12,0,Atlanta Falcons,25
+379,Sean McKeon,TE,6,4,66.7%,27,1,Dallas Cowboys,24
+380,Kene Nwangwu,RB,5,4,80.0%,9,0,Minnesota Vikings,23
+381,Qadree Ollison,RB,6,4,66.7%,12,0,Atlanta Falcons,25
 382,Adrian Peterson,,4,4,100.0%,8,0,Two Teams,36
-383,Amari Rodgers,wr,8,4,50.0%,45,0,Green Bay Packers,22
-384,Wendell Smallwood,rb,5,4,80.0%,22,0,Washington Commanders,27
+383,Amari Rodgers,WR,8,4,50.0%,45,0,Green Bay Packers,22
+384,Wendell Smallwood,RB,5,4,80.0%,22,0,Washington Commanders,27
 385,Willie Snead,,8,4,50.0%,38,0,Two Teams,29
-386,Jack Stoll,te,5,4,80.0%,22,0,Philadelphia Eagles,23
-387,J.J. Taylor,rb,4,4,100.0%,8,0,New England Patriots,23
-388,Ke'Shawn Vaughn,rb,8,4,50.0%,26,0,Tampa Bay Buccaneers,24
-389,Kristian Wilkerson,wr,8,4,50.0%,42,2,,24
-390,Jonathan Williams,rb,6,4,66.7%,28,0,Washington Commanders,27
-391,Cam Akers,rb,3,3,100.0%,10,0,Los Angeles Rams,22
-392,Ryquell Armstead,rb,4,3,75.0%,16,0,Jacksonville Jaguars,25
-393,Malcolm Brown,rb,5,3,60.0%,10,0,Miami Dolphins,28
-394,Michael Burton,rb,3,3,100.0%,31,0,Kansas City Chiefs,29
-395,Greg Dortch,wr,3,3,100.0%,15,0,Arizona Cardinals,23
-396,Alex Erickson,wr,4,3,75.0%,55,0,Carolina Panthers,29
-397,Reggie Gilliam,fb,5,3,60.0%,23,0,Buffalo Bills,24
-398,Demetrius Harris,te,6,3,50.0%,10,0,Arizona Cardinals,30
-399,K.J. Hill,cb,3,3,100.0%,30,0,Los Angeles Chargers,24
-400,Tommy Hudson,te,6,3,50.0%,31,0,Tennessee Titans,24
-401,Tyree Jackson,qb,7,3,42.9%,22,1,Philadelphia Eagles,24
-402,Andy Janovich,rb,4,3,75.0%,9,0,Cleveland Browns,28
-403,Keith Kirkwood,wr,7,3,42.9%,17,0,Carolina Panthers,27
-404,Patrick Laird,rb,3,3,100.0%,17,0,Miami Dolphins,26
-405,D.J. Montgomery,wr,6,3,50.0%,36,0,New York Jets,25
-406,Jason Moore,wr,4,3,75.0%,56,0,Los Angeles Chargers,26
-407,Chris Myarick,te,6,3,50.0%,17,1,New York Giants,26
-408,Gabe Nabers,fb,3,3,100.0%,17,0,Los Angeles Chargers,24
-409,Adam Prentice,fb,3,3,100.0%,16,0,New Orleans Saints,24
-410,Jaylen Samuels,te,4,3,75.0%,14,0,Houston Texans,25
-411,Trey Sermon,rb,4,3,75.0%,26,0,San Francisco 49ers,22
-412,Kaden Smith,te,3,3,100.0%,33,0,New York Giants,24
-413,Jeremy Sprinkle,te,3,3,100.0%,31,0,Dallas Cowboys,27
-414,Auden Tate,wr,4,3,75.0%,39,1,Cincinnati Bengals,24
-415,Jonathan Ward,rb,4,3,75.0%,34,0,Arizona Cardinals,24
-416,Derek Watt,rb,3,3,100.0%,15,0,Pittsburgh Steelers,29
+386,Jack Stoll,TE,5,4,80.0%,22,0,Philadelphia Eagles,23
+387,J.J. Taylor,RB,4,4,100.0%,8,0,New England Patriots,23
+388,Ke'Shawn Vaughn,RB,8,4,50.0%,26,0,Tampa Bay Buccaneers,24
+389,Kristian Wilkerson,WR,8,4,50.0%,42,2,,24
+390,Jonathan Williams,RB,6,4,66.7%,28,0,Washington Commanders,27
+391,Cam Akers,RB,3,3,100.0%,10,0,Los Angeles Rams,22
+392,Ryquell Armstead,RB,4,3,75.0%,16,0,Jacksonville Jaguars,25
+393,Malcolm Brown,RB,5,3,60.0%,10,0,Miami Dolphins,28
+394,Michael Burton,RB,3,3,100.0%,31,0,Kansas City Chiefs,29
+395,Greg Dortch,WR,3,3,100.0%,15,0,Arizona Cardinals,23
+396,Alex Erickson,WR,4,3,75.0%,55,0,Carolina Panthers,29
+397,Reggie Gilliam,FB,5,3,60.0%,23,0,Buffalo Bills,24
+398,Demetrius Harris,TE,6,3,50.0%,10,0,Arizona Cardinals,30
+399,K.J. Hill,CB,3,3,100.0%,30,0,Los Angeles Chargers,24
+400,Tommy Hudson,TE,6,3,50.0%,31,0,Tennessee Titans,24
+401,Tyree Jackson,QB,7,3,42.9%,22,1,Philadelphia Eagles,24
+402,Andy Janovich,RB,4,3,75.0%,9,0,Cleveland Browns,28
+403,Keith Kirkwood,WR,7,3,42.9%,17,0,Carolina Panthers,27
+404,Patrick Laird,RB,3,3,100.0%,17,0,Miami Dolphins,26
+405,D.J. Montgomery,WR,6,3,50.0%,36,0,New York Jets,25
+406,Jason Moore,WR,4,3,75.0%,56,0,Los Angeles Chargers,26
+407,Chris Myarick,TE,6,3,50.0%,17,1,New York Giants,26
+408,Gabe Nabers,FB,3,3,100.0%,17,0,Los Angeles Chargers,24
+409,Adam Prentice,FB,3,3,100.0%,16,0,New Orleans Saints,24
+410,Jaylen Samuels,TE,4,3,75.0%,14,0,Houston Texans,25
+411,Trey Sermon,RB,4,3,75.0%,26,0,San Francisco 49ers,22
+412,Kaden Smith,TE,3,3,100.0%,33,0,New York Giants,24
+413,Jeremy Sprinkle,TE,3,3,100.0%,31,0,Dallas Cowboys,27
+414,Auden Tate,WR,4,3,75.0%,39,1,Cincinnati Bengals,24
+415,Jonathan Ward,RB,4,3,75.0%,34,0,Arizona Cardinals,24
+416,Derek Watt,RB,3,3,100.0%,15,0,Pittsburgh Steelers,29
 417,Trevon Wesco,TE,5,3,60.0%,35,0,New York Jets,26
-418,Mitchell Wilcox,te,5,3,60.0%,16,0,Cincinnati Bengals,25
-419,Shane Zylstra,te,7,3,42.9%,34,0,,25
-420,JJ Arcega-Whiteside,wr,5,2,40.0%,36,0,Philadelphia Eagles,25
-421,Kalen Ballage,rb,7,2,28.6%,8,0,Pittsburgh Steelers,26
-422,Cameron Batson,wr,5,2,40.0%,15,1,Tennessee Titans,26
-423,Khari Blasingame,rb,2,2,100.0%,4,0,Tennessee Titans,25
-424,Reggie Bonnafon,rb,2,2,100.0%,12,0,Carolina Panthers,25
-425,Mike Boone,rb,2,2,100.0%,22,0,Denver Broncos,26
-426,Daniel Brown,wr,2,2,100.0%,29,0,New York Jets,29
-427,Derek Carrier,te,2,2,100.0%,13,0,Las Vegas Raiders,31
-428,Cethan Carter,te,2,2,100.0%,16,0,Miami Dolphins,26
-429,Dominique Dafney,te,4,2,50.0%,34,0,Green Bay Packers,24
+418,Mitchell Wilcox,TE,5,3,60.0%,16,0,Cincinnati Bengals,25
+419,Shane Zylstra,TE,7,3,42.9%,34,0,,25
+420,JJ Arcega-Whiteside,WR,5,2,40.0%,36,0,Philadelphia Eagles,25
+421,Kalen Ballage,RB,7,2,28.6%,8,0,Pittsburgh Steelers,26
+422,Cameron Batson,WR,5,2,40.0%,15,1,Tennessee Titans,26
+423,Khari Blasingame,RB,2,2,100.0%,4,0,Tennessee Titans,25
+424,Reggie Bonnafon,RB,2,2,100.0%,12,0,Carolina Panthers,25
+425,Mike Boone,RB,2,2,100.0%,22,0,Denver Broncos,26
+426,Daniel Brown,WR,2,2,100.0%,29,0,New York Jets,29
+427,Derek Carrier,TE,2,2,100.0%,13,0,Las Vegas Raiders,31
+428,Cethan Carter,TE,2,2,100.0%,16,0,Miami Dolphins,26
+429,Dominique Dafney,TE,4,2,50.0%,34,0,Green Bay Packers,24
 430,Taylor Decker,LT,2,2,100.0%,4,1,Detroit Lions,28
-431,Darrynton Evans,rb,2,2,100.0%,11,0,Tennessee Titans,23
-432,Jesper Horsted,wr,3,2,66.7%,21,2,Chicago Bears,24
-433,Jordan Howard,rb,5,2,40.0%,19,0,Philadelphia Eagles,27
-434,Trenton Irwin,wr,5,2,40.0%,34,0,Cincinnati Bengals,26
+431,Darrynton Evans,RB,2,2,100.0%,11,0,Tennessee Titans,23
+432,Jesper Horsted,WR,3,2,66.7%,21,2,Chicago Bears,24
+433,Jordan Howard,RB,5,2,40.0%,19,0,Philadelphia Eagles,27
+434,Trenton Irwin,WR,5,2,40.0%,34,0,Cincinnati Bengals,26
 435,Tyron Johnson,,5,2,40.0%,16,0,Two Teams,25
-436,Marcus Kemp,wr,5,2,40.0%,24,0,Kansas City Chiefs,26
-437,Jake Kumerow,wr,6,2,33.3%,28,0,Buffalo Bills,29
-438,Marlon Mack,rb,5,2,40.0%,8,0,Indianapolis Colts,25
-439,Racey McMath,wr,6,2,33.3%,8,0,Tennessee Titans,22
+436,Marcus Kemp,WR,5,2,40.0%,24,0,Kansas City Chiefs,26
+437,Jake Kumerow,WR,6,2,33.3%,28,0,Buffalo Bills,29
+438,Marlon Mack,RB,5,2,40.0%,8,0,Indianapolis Colts,25
+439,Racey McMath,WR,6,2,33.3%,8,0,Tennessee Titans,22
 440,Jaydon Mickens,,3,2,66.7%,10,0,Two Teams,27
-441,Stanley Morgan Jr.,wr,4,2,50.0%,11,0,Cincinnati Bengals,25
-442,Dazz Newsome,wr,5,2,40.0%,23,0,Chicago Bears,22
-443,Gunner Olszewski,wr,3,2,66.7%,31,0,New England Patriots,25
-444,Dezmon Patmon,wr,4,2,50.0%,21,1,Indianapolis Colts,23
-445,Scottie Phillips,rb,3,2,66.7%,9,0,Houston Texans,24
-446,Kevin Rader,te,3,2,66.7%,8,0,Pittsburgh Steelers,26
-447,Trey Ragas,rb,2,2,100.0%,6,0,Las Vegas Raiders,25
-448,Richard Rodgers,te,2,2,100.0%,11,0,Philadelphia Eagles,29
-449,C.J. Saunders,wr,2,2,100.0%,11,0,,25
-450,David Sills,wr,6,2,33.3%,17,0,New York Giants,25
-451,Benny Snell Jr.,rb,4,2,50.0%,13,0,Pittsburgh Steelers,23
-452,Johnny Stanton,rb,2,2,100.0%,7,1,Cleveland Browns,27
-453,Luke Stocker,te,2,2,100.0%,12,0,Minnesota Vikings,33
-454,Mike Strachan,wr,3,2,66.7%,26,0,Indianapolis Colts,24
-455,Malik Taylor,wr,3,2,66.7%,14,0,Green Bay Packers,26
-456,Patrick Taylor,rb,2,2,100.0%,3,0,Green Bay Packers,23
-457,Trent Taylor,wr,3,2,66.7%,41,0,Cincinnati Bengals,27
-458,Tylan Wallace,wr,6,2,33.3%,23,0,Baltimore Ravens,22
-459,Austin Walter,rb,3,2,66.7%,9,0,New York Jets,25
-460,Dwayne Washington,rb,2,2,100.0%,12,0,New Orleans Saints,27
-461,Tyrell Williams,wr,3,2,66.7%,14,0,Detroit Lions,29
-462,Ethan Wolf,te,2,2,100.0%,8,0,New Orleans Saints,26
-463,Kenny Yeboah,te,3,2,66.7%,36,0,New York Jets,23
+441,Stanley Morgan Jr.,WR,4,2,50.0%,11,0,Cincinnati Bengals,25
+442,Dazz Newsome,WR,5,2,40.0%,23,0,Chicago Bears,22
+443,Gunner Olszewski,WR,3,2,66.7%,31,0,New England Patriots,25
+444,Dezmon Patmon,WR,4,2,50.0%,21,1,Indianapolis Colts,23
+445,Scottie Phillips,RB,3,2,66.7%,9,0,Houston Texans,24
+446,Kevin Rader,TE,3,2,66.7%,8,0,Pittsburgh Steelers,26
+447,Trey Ragas,RB,2,2,100.0%,6,0,Las Vegas Raiders,25
+448,Richard Rodgers,TE,2,2,100.0%,11,0,Philadelphia Eagles,29
+449,C.J. Saunders,WR,2,2,100.0%,11,0,,25
+450,David Sills,WR,6,2,33.3%,17,0,New York Giants,25
+451,Benny Snell Jr.,RB,4,2,50.0%,13,0,Pittsburgh Steelers,23
+452,Johnny Stanton,RB,2,2,100.0%,7,1,Cleveland Browns,27
+453,Luke Stocker,TE,2,2,100.0%,12,0,Minnesota Vikings,33
+454,Mike Strachan,WR,3,2,66.7%,26,0,Indianapolis Colts,24
+455,Malik Taylor,WR,3,2,66.7%,14,0,Green Bay Packers,26
+456,Patrick Taylor,RB,2,2,100.0%,3,0,Green Bay Packers,23
+457,Trent Taylor,WR,3,2,66.7%,41,0,Cincinnati Bengals,27
+458,Tylan Wallace,WR,6,2,33.3%,23,0,Baltimore Ravens,22
+459,Austin Walter,RB,3,2,66.7%,9,0,New York Jets,25
+460,Dwayne Washington,RB,2,2,100.0%,12,0,New Orleans Saints,27
+461,Tyrell Williams,WR,3,2,66.7%,14,0,Detroit Lions,29
+462,Ethan Wolf,TE,2,2,100.0%,8,0,New Orleans Saints,26
+463,Kenny Yeboah,TE,3,2,66.7%,36,0,New York Jets,23
 464,Alex Armah,,1,1,100.0%,1,1,Two Teams,27
-465,Nick Bawden,rb,1,1,100.0%,20,0,New York Jets,25
-466,Nick Bellore,lb,1,1,100.0%,4,0,Seattle Seahawks,32
-467,Tarik Black,wr,2,1,50.0%,10,0,New York Jets,23
-468,Miles Boykin,wr,1,1,100.0%,6,0,Baltimore Ravens,25
-469,Nick Boyle,te,2,1,50.0%,2,0,Baltimore Ravens,28
+465,Nick Bawden,RB,1,1,100.0%,20,0,New York Jets,25
+466,Nick Bellore,LB,1,1,100.0%,4,0,Seattle Seahawks,32
+467,Tarik Black,WR,2,1,50.0%,10,0,New York Jets,23
+468,Miles Boykin,WR,1,1,100.0%,6,0,Baltimore Ravens,25
+469,Nick Boyle,TE,2,1,50.0%,2,0,Baltimore Ravens,28
 470,Garrett Bradbury,C,1,1,100.0%,21,0,Minnesota Vikings,26
-471,Gary Brightwell,rb,1,1,100.0%,6,0,New York Giants,22
-472,Keke Coutee,wr,1,1,100.0%,5,0,Indianapolis Colts,24
-473,Darrell Daniels,te,4,1,25.0%,0,0,Arizona Cardinals,27
-474,Frank Darby,wr,4,1,25.0%,14,0,Atlanta Falcons,24
-475,Davion Davis,wr,3,1,33.3%,17,0,Houston Texans,25
+471,Gary Brightwell,RB,1,1,100.0%,6,0,New York Giants,22
+472,Keke Coutee,WR,1,1,100.0%,5,0,Indianapolis Colts,24
+473,Darrell Daniels,TE,4,1,25.0%,0,0,Arizona Cardinals,27
+474,Frank Darby,WR,4,1,25.0%,14,0,Atlanta Falcons,24
+475,Davion Davis,WR,3,1,33.3%,17,0,Houston Texans,25
 476,Wayne Gallman,,3,1,33.3%,21,0,Two Teams,27
-477,Marvin Hall,wr,1,1,100.0%,10,0,Atlanta Falcons,28
+477,Marvin Hall,WR,1,1,100.0%,10,0,Atlanta Falcons,28
 478,Taylor Heinicke,QB,1,1,100.0%,-2,0,Washington Commanders,28
-479,Daniel Helm,te,2,1,50.0%,-1,0,,26
-480,Kylin Hill,rb,2,1,50.0%,5,0,Green Bay Packers,23
+479,Daniel Helm,TE,2,1,50.0%,-1,0,,26
+480,Kylin Hill,RB,2,1,50.0%,5,0,Green Bay Packers,23
 481,Amani Hooker,FS,1,1,100.0%,6,0,Tennessee Titans,23
-482,Brycen Hopkins,te,1,1,100.0%,9,0,Los Angeles Rams,24
-483,Andy Isabella,wr,1,1,100.0%,13,0,Arizona Cardinals,25
+482,Brycen Hopkins,TE,1,1,100.0%,9,0,Los Angeles Rams,24
+483,Andy Isabella,WR,1,1,100.0%,13,0,Arizona Cardinals,25
 484,Lane Johnson,RT,1,1,100.0%,5,1,Philadelphia Eagles,31
 485,Daniel Jones,QB,1,1,100.0%,16,0,New York Giants,24
-486,Tommylee Lewis,wr,2,1,50.0%,7,0,Miami Dolphins,29
-487,Drew Lock,qb,1,1,100.0%,1,0,Denver Broncos,25
-488,Hunter Long,te,3,1,33.3%,8,0,Miami Dolphins,23
-489,Conor McDermott,t,1,1,100.0%,1,1,New York Jets,29
-490,Anthony McFarland Jr.,rb,1,1,100.0%,11,0,Pittsburgh Steelers,22
-491,Kirk Merritt,wr,3,1,33.3%,13,0,Miami Dolphins,24
-492,Johnny Mundt,te,1,1,100.0%,9,0,Los Angeles Rams,27
-493,Ryan Nall,rb,1,1,100.0%,4,0,Chicago Bears,26
+486,Tommylee Lewis,WR,2,1,50.0%,7,0,Miami Dolphins,29
+487,Drew Lock,QB,1,1,100.0%,1,0,Denver Broncos,25
+488,Hunter Long,TE,3,1,33.3%,8,0,Miami Dolphins,23
+489,Conor McDermott,T,1,1,100.0%,1,1,New York Jets,29
+490,Anthony McFarland Jr.,RB,1,1,100.0%,11,0,Pittsburgh Steelers,22
+491,Kirk Merritt,WR,3,1,33.3%,13,0,Miami Dolphins,24
+492,Johnny Mundt,TE,1,1,100.0%,9,0,Los Angeles Rams,27
+493,Ryan Nall,RB,1,1,100.0%,4,0,Chicago Bears,26
 494,Devine Ozigbo,,1,1,100.0%,7,0,Two Teams,25
-495,Danny Pinter,g,1,1,100.0%,2,1,Indianapolis Colts,25
-496,Bobby Price,db,1,1,100.0%,17,0,Detroit Lions,23
-497,Mike Remmers,t,1,1,100.0%,-2,0,Kansas City Chiefs,32
+495,Danny Pinter,G,1,1,100.0%,2,1,Indianapolis Colts,25
+496,Bobby Price,DB,1,1,100.0%,17,0,Detroit Lions,23
+497,Mike Remmers,T,1,1,100.0%,-2,0,Kansas City Chiefs,32
 498,Andre Roberts,,2,1,50.0%,35,0,Two Teams,33
 499,Aaron Rodgers,QB,1,1,100.0%,-4,0,Green Bay Packers,38
 500,Larry Rountree,RB,2,1,50.0%,-1,0,Los Angeles Chargers,22
-501,Diontae Spencer,wr,4,1,25.0%,-3,0,Denver Broncos,29
-502,Terence Steele,rt/lt,1,1,100.0%,1,1,Dallas Cowboys,24
+501,Diontae Spencer,WR,4,1,25.0%,-3,0,Denver Broncos,29
+502,Terence Steele,RT/LT,1,1,100.0%,1,1,Dallas Cowboys,24
 503,Andrew Thomas,LT,1,1,100.0%,2,1,New York Giants,22
-504,Eric Tomlinson,te,1,1,100.0%,7,0,Baltimore Ravens,29
-505,Kevin White,wr,5,1,20.0%,38,0,New Orleans Saints,29
+504,Eric Tomlinson,TE,1,1,100.0%,7,0,Baltimore Ravens,29
+505,Kevin White,WR,5,1,20.0%,38,0,New Orleans Saints,29
 506,Christian Wilkins,RDE,1,1,100.0%,1,1,Miami Dolphins,26
-507,Seth Williams,wr,1,1,100.0%,34,0,Denver Broncos,21
-508,Trayveon Williams,rb,2,1,50.0%,4,0,Cincinnati Bengals,24
-509,Easop Winston,wr,1,1,100.0%,5,0,,25
-510,Deon Yelder,te,1,1,100.0%,0,0,Tampa Bay Buccaneers,26
-511,Rodney Adams,wr,1,0,0.0%,0,0,Chicago Bears,27
-512,Geronimo Allison,wr,2,0,0.0%,0,0,Detroit Lions,27
-513,Travis Benjamin,wr,5,0,0.0%,0,0,San Francisco 49ers,32
-514,Darius Bradwell,fb,1,0,0.0%,0,0,Los Angeles Chargers,24
+507,Seth Williams,WR,1,1,100.0%,34,0,Denver Broncos,21
+508,Trayveon Williams,RB,2,1,50.0%,4,0,Cincinnati Bengals,24
+509,Easop Winston,WR,1,1,100.0%,5,0,,25
+510,Deon Yelder,TE,1,1,100.0%,0,0,Tampa Bay Buccaneers,26
+511,Rodney Adams,WR,1,0,0.0%,0,0,Chicago Bears,27
+512,Geronimo Allison,WR,2,0,0.0%,0,0,Detroit Lions,27
+513,Travis Benjamin,WR,5,0,0.0%,0,0,San Francisco 49ers,32
+514,Darius Bradwell,FB,1,0,0.0%,0,0,Los Angeles Chargers,24
 515,John Brown,,3,0,0.0%,0,0,Three Teams,31
-516,Tevaughn Campbell,rcb,1,0,0.0%,0,0,Los Angeles Chargers,28
-517,Tyrie Cleveland,wr,1,0,0.0%,0,0,Denver Broncos,24
-518,Isaiah Coulter,wr,1,0,0.0%,0,0,Chicago Bears,23
-519,Keion Crossen,db,1,0,0.0%,0,0,New York Giants,25
+516,Tevaughn Campbell,RCB,1,0,0.0%,0,0,Los Angeles Chargers,28
+517,Tyrie Cleveland,WR,1,0,0.0%,0,0,Denver Broncos,24
+518,Isaiah Coulter,WR,1,0,0.0%,0,0,Chicago Bears,23
+519,Keion Crossen,DB,1,0,0.0%,0,0,New York Giants,25
 520,Dion Dawkins,LT,1,0,0.0%,0,0,Buffalo Bills,27
-521,Ben Ellefson,te,1,0,0.0%,0,0,Minnesota Vikings,25
-522,Jason Huntley,rb,1,0,0.0%,0,0,Philadelphia Eagles,23
+521,Ben Ellefson,TE,1,0,0.0%,0,0,Minnesota Vikings,25
+522,Jason Huntley,RB,1,0,0.0%,0,0,Philadelphia Eagles,23
 523,Jalen Hurts,QB,1,0,0.0%,0,0,Philadelphia Eagles,23
-524,Codey McElroy,te,1,0,0.0%,0,0,Tampa Bay Buccaneers,29
+524,Codey McElroy,TE,1,0,0.0%,0,0,Tampa Bay Buccaneers,29
 525,David Moore,,2,0,0.0%,0,0,Two Teams,26
-526,Matt Nelson,rt,1,0,0.0%,0,0,Detroit Lions,26
-527,Giovanni Ricci,fb,2,0,0.0%,0,0,Carolina Panthers,25
+526,Matt Nelson,RT,1,0,0.0%,0,0,Detroit Lions,26
+527,Giovanni Ricci,FB,2,0,0.0%,0,0,Carolina Panthers,25
 528,Mekhi Sargent,,1,0,0.0%,0,0,Three Teams,24
-529,Devin Smith,wr,1,0,0.0%,0,0,Jacksonville Jaguars,29
-530,Vyncint Smith,wr,1,0,0.0%,0,0,New York Jets,25
-531,Stephen Sullivan,te,1,0,0.0%,0,0,Carolina Panthers,25
-532,Colin Thompson,te,1,0,0.0%,0,0,Carolina Panthers,28
+529,Devin Smith,WR,1,0,0.0%,0,0,Jacksonville Jaguars,29
+530,Vyncint Smith,WR,1,0,0.0%,0,0,New York Jets,25
+531,Stephen Sullivan,TE,1,0,0.0%,0,0,Carolina Panthers,25
+532,Colin Thompson,TE,1,0,0.0%,0,0,Carolina Panthers,28
 533,Trent Williams,LT,1,0,0.0%,0,0,San Francisco 49ers,33
 534,Zach Wilson,QB,1,0,0.0%,0,0,New York Jets,22

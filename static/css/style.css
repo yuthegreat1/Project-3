@@ -8,9 +8,14 @@ body,
 body{
   padding:2rem;
 }
-#chart_1{
-  width:100%;
+.fullwidthchart{
+  /* width:100%; */
+  flex:1;
   height: 300px;
   background:#ccc;
   margin-top:  2rem;
+}
+.chart-container{
+  display:flex;
+  flex-direction: column;
 }

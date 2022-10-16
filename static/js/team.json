@@ -1,4 +1,4 @@
-let teamjson=[
+[
   {
     "Age": 29, 
     "Catch Percentage": "72.8%", 
@@ -198,71 +198,3 @@ let teamjson=[
     "Yards": -4
   }
 ]
-
-
-
-
-d3.select("#submit").on("click", function(targ) {
-  console.log("submit")
-  d3.event.preventDefault();
-  let player = d3.select("#name").property("value");
-  if(!player.length) {
-    console.log("no player")
-    return; 
-  }
-  d3.json(`http://127.0.0.1:5000/api/v1.0/searchbyteams/${player}`).then(function(data) {
-    console.log(data);
-    let names = data.map(x => x.name);
-    let table = d3.select("#table tbody");
-    table.html("");
-    for (x of data) {
-      let row = table.append("tr");
-      row.append("td").text(x.name);
-      row.append("td").text(x.age);
-      row.append("td").text(x.team);
-      row.append("td").text(x.position);
-      row.append("td").text(x.targets);
-      row.append("td").text(x.receptions);
-      row.append("td").text(x.catchpct);
-      row.append("td").text(x.yards);
-      row.append("td").text(x.touchdowns);
-    }
-  });
-
-// each trace is a colleciton of data with a display mode we are passing an array of traces to the plotly new plot function
-let teamdata ={
-  yards:teamjson.map(player=>player.Yards),
-  catch:teamjson.map(player=>parseFloat(player["Catch Percentage"].replace("%","")))
-}
-console.log(teamdata)
-  var trace1 = {
-    x: teamdata.yards,
-    y: teamdata.catch,
-    mode: 'markers',
-    type: 'scatter'
-  };
-  
- 
-  
-  var data = [trace1, ];
-  // plotly needs the ID of the DIV where we want to display the grapgh 
-  Plotly.newPlot('chart_1', data);
-})
-
-
-
-
-// function displaydata ()
-
-
-//defining variables for chart 
-
-// let players_name = name 
-// let players_age = age
-// let team = team
-// let player_postion = position
-// let targets = targets
-// let receptions =  receptions
-// let catchpct = catchpct
-// let yards = yards
-// let td = touchdowns

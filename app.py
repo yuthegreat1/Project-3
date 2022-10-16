@@ -1,7 +1,7 @@
 
 import numpy as np
 
-import sqlalchemy
+from flask_sqlalchemy import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
@@ -36,13 +36,13 @@ CORS(app)
 @app.route("/")
 def welcome():
     """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/api/v1.0/all<br/>"
-        f"/api/v1.0/searchbyname/<name><br/>"
-        f"/api/v1.0/searchbyteams/<team><br/>"
-        f"/api/v1.0/searchbyposition/<position><br/>"
-    )
+    # return (
+    #     f"Available Routes:<br/>"
+    #     f"/api/v1.0/all<br/>"
+    #     f"/api/v1.0/searchbyname/<name><br/>"
+    #     f"/api/v1.0/searchbyteams/<team><br/>"
+    #     f"/api/v1.0/searchbyposition/<position><br/>"
+    # )
 
 
 @app.route("/api/v1.0/all")

@@ -36,13 +36,13 @@ CORS(app)
 @app.route("/")
 def welcome():
     """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/api/v1.0/all<br/>"
-        f"/api/v1.0/searchbyname/<name><br/>"
-        f"/api/v1.0/searchbyteams/<team><br/>"
-        f"/api/v1.0/searchbyposition/<position><br/>"
-    )
+    # return (
+    #     f"Available Routes:<br/>"
+    #     f"/api/v1.0/all<br/>"
+    #     f"/api/v1.0/searchbyname/<name><br/>"
+    #     f"/api/v1.0/searchbyteams/<team><br/>"
+    #     f"/api/v1.0/searchbyposition/<position><br/>"
+    # )
 
 
 @app.route("/api/v1.0/all")

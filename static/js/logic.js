@@ -36,16 +36,19 @@
     };
 
     var layout1 = {
+      title: "Yards vs Receptions",
       xaxis: {title: "Receiving Yards"},
       yaxis: {title: "# of Receptions"}
     };
 
     var layout2 = {
+      title: "Age vs Catch Percentage",
       xaxis: {title: "Age of Player"},
       yaxis: {title: "Catch Percentage"}
     };
 
     var layout3 = {
+      title: "Position vs Number of Receptions",
       xaxis: {title: "Player's Position"},
       yaxis: {title: "# of Receptions"}
     };

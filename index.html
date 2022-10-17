@@ -9,15 +9,20 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+  <script src="lazysizes.min.js" async=""></script>
 
 
 </head>
 
 <body>
   <div>
-    <h1>2021 NFL Receiving Statistics</h1>
+    <h1 id="title">2021 NFL Receiving Statistics</h1>
   </div>
+
+  <div>
+    <img class="lazyload" src="images/NFL-logo-cover.jpg" data-src="images/NFL-logo-cover.jpg" alt="nfl_logo"  />
+  </div>
+
   <div class="chart-contatiner">
     <h3>Yards vs Receptions</h3>
     <div id="chart_1" class="fullwidthchart"></div>

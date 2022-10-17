@@ -5,3 +5,15 @@ body,
   padding: 0;
   margin: 0;
 }
+.lazyload {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20%;
+  width: 20%;
+}
+#title {
+  margin: auto;
+  width: 30%;
+  padding: 20px;
+}
